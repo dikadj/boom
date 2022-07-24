@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/boom/static/js/main.4d5f340e.js",
+    "static/js/787.7c19ce69.chunk.js": "/boom/static/js/787.7c19ce69.chunk.js",
+    "static/media/movie-posters.jpg": "/boom/static/media/movie-posters.f9df18a01c476bab02b7.jpg",
+    "index.html": "/boom/index.html",
+    "main.4d5f340e.js.map": "/boom/static/js/main.4d5f340e.js.map",
+    "787.7c19ce69.chunk.js.map": "/boom/static/js/787.7c19ce69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4d5f340e.js"
+  ]
+}
